@@ -8,12 +8,12 @@ Hi, I'm Devon and this is my Cyber Security Portfolio. I am currently seeking a 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | ---------------
-|                  | Threats, risk, and vulnerabilites     | SQL            |
+|                 | Threats, risk, and vulnerabilites     | SQL             |
 |                 | Incident response                     | Linux           |
 |                 | Security frameworks and controls      | Python          |  
 |                 | Linux command line                    | Wireshark       |                 
 |                 | Security hardening                    | Splunk          |
-|                 |Security Information Event Management  |  Chronicle      |
+|                 |Security Information Event Management  | Chronicle       |
 |                 |                                       |(SIEM) tools     |                 
                                              
 
@@ -24,6 +24,5 @@ List our your certifications and/or link to them. Also include the ones you plan
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | Google Cyber Security |                04/25/24                | https://tinyurl.com/mtsye36a| 
-
 
 
