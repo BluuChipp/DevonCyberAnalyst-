@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Devon and this is my Cyber Security Portfolio. I am currently seeking a Enetry-level position that leverages my [Cyber Security skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to learn and join an organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Devon and this is my Cyber Security Portfolio. I am currently seeking a Enetry-level position that leverages my Cyber Security skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to learn and join an organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
