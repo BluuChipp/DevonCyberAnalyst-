@@ -8,9 +8,9 @@ Hi, I'm Devon and this is my Cyber Security Portfolio. I am currently seeking a 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | ---------------
-|                 | Threats, risk, and vulnerabilites     | SQL             |
+| conduct a audit | Manage Security risk                  |                 | https://tinyurl.com/mpfpmy7d
 |                 | Incident response                     | Linux           |
-|                 | Security frameworks and controls      | Python          |  
+|                 | Threats, risk, and vulnerabilites    | Python          |  
 |                 | Linux command line                    | Wireshark       |                 
 |                 | Security hardening                    | Splunk          |
 |                 |Security Information Event Management  | Chronicle       |
