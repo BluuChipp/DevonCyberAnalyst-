@@ -3,7 +3,9 @@
 
 - <b>Networks and Network Security</b>
   - [Analyze network layer communication](https://github.com/BluuChipp/-Analyze-network-layer-communication.git)
+
 - <b>Analyze network attacks</b>
   -[Analyze network attacks](https://github.com/BluuChipp/Analyze-network-attacks.git)
-- <b>Analyze network attacks</b>
-  -[Analyze network attacks](https://github.com/BluuChipp/Analyze-network-attacks.git)
+
+- <b>Apply OS hardening techniques</b>
+  [Apply OS hardening](https://github.com/BluuChipp/Analyze-network-attacks.git)
