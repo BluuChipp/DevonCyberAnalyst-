@@ -6,15 +6,15 @@ Hi, I'm Devon and this is my Cyber Security Portfolio. I am currently seeking a 
 
 
 # Project Overview 
-|     Project     |                 Skills                |     Tools       |      Link       |
+|   Tools         |                 Skills                |     Project      |      Link       |
 | --------------- | ------------------------------------- | --------------- | ---------------
-| conduct a audit | Security Hardening                    |                 | https://tinyurl.com/mpfpmy7d
-|                 | Network Security                      | Linux           | https://tinyurl.com/2r857d8j
-|                 |Transmission Control Protocol          | Python          |  
-|                 | Internet Protocol (TCP/IP)            | Wireshark       |                 
-|                 | Network Architecture                  | Splunk          |
-|                 |Cloud Networks                         | Chronicle       |
-|                 |                                       |(SIEM) tools     |                 
+|                 |  Security Hardening                   | conduct a audit | https://tinyurl.com/mpfpmy7d
+|   Linux         |  Network Security                     |                 | https://tinyurl.com/2r857d8j
+|  Python         |  Transmission Control Protocol        |                 |  
+|  Wireshark      |  Internet Protocol (TCP/IP)           |                 |                 
+|  Splunk         |  Network Architecture                 |                 |
+|  Chronicle      |  Cloud Networks                       |                 |
+| (SIEM) tools    |                                       |                 |                 
                                              
 
 
