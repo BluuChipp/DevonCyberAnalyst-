@@ -19,3 +19,5 @@
 - <b>Work with strings in Python</b>
   [Work with strings in Python](https://github.com/BluuChipp/Work-with-strings-in-Python.git)
   
+- <b>Import-and-parse-a-text-file</b>
+  [Import-and-parse-a-text-file](https://github.com/BluuChipp/Import-and-parse-a-text-file.git)
