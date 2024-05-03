@@ -21,3 +21,6 @@
   
 - <b>Import-and-parse-a-text-file</b>
   [Import-and-parse-a-text-file](https://github.com/BluuChipp/Import-and-parse-a-text-file.git)
+
+- <b>Develop-an-algorithm</b>
+  [Develop-an-algorithm](https://github.com/BluuChipp/Develop-an-algorithm.git)
