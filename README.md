@@ -34,3 +34,6 @@
 
 - <b>Create Conditional Statements</b>
 [Create Conditional Statements](https://github.com/BluuChipp/Create-Conditional-Statements.git)  
+
+- <b>Assign-Python-variables</b>
+[Assign-Python-variables](https://github.com/BluuChipp/Assign-Python-variables.git)  
