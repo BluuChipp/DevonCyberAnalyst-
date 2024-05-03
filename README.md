@@ -24,3 +24,7 @@
 
 - <b>Develop-an-algorithm</b>
   [Develop-an-algorithm](https://github.com/BluuChipp/Develop-an-algorithm.git)
+
+- <b>Create-more-functions</b>
+  [Create-more-functions](https://github.com/BluuChipp/Create-more-functions.git)
+
