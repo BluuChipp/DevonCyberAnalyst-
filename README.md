@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devon! <br/><a href="https://github.com/joshmadakor1">CyberSecurity</a> 
+<h1>Hi, I'm Devon! <br/><a href="https://github.com/BluuChipp/DevonCyberAnalyst-/edit/main/README.md">CyberSecurity</a> 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Networks and Network Security</b>
