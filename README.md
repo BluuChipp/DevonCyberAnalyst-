@@ -30,4 +30,7 @@
 
 - <b>Create Loops</b>
 [Create Loops](https://github.com/BluuChipp/Create-Loops.git)
-  
+
+
+- <b>Create Conditional Statements</b>
+[Create Conditional Statements](https://github.com/BluuChipp/Create-Conditional-Statements.git)  
