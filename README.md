@@ -28,3 +28,6 @@
 - <b>Create-more-functions</b>
   [Create-more-functions](https://github.com/BluuChipp/Create-more-functions.git)
 
+- <b>Create Loops</b>
+[Create Loops](https://github.com/BluuChipp/Create-Loops.git)
+  
