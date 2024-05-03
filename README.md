@@ -37,3 +37,5 @@
 
 - <b>Assign-Python-variables</b>
 [Assign-Python-variables](https://github.com/BluuChipp/Assign-Python-variables.git)  
+
+#### Tools of the Trade Linux and SQL
