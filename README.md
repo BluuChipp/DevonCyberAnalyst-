@@ -39,3 +39,6 @@
 [Assign-Python-variables](https://github.com/BluuChipp/Assign-Python-variables.git)  
 
 #### Tools of the Trade Linux and SQL
+
+- <b>Tools of the Trade Linux and SQL</b>
+[Tools of the Trade Linux and SQL](https://github.com/BluuChipp/Tools-of-the-Trade-Linux-and-SQL.git)  
